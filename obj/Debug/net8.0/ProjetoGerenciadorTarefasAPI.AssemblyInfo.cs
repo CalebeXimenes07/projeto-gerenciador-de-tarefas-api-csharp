@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("333eb9e5-168d-45ea-9a1a-4ee0aefc5f1c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoGerenciadorTarefasAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64dcb1e10671912edf4f6893b0eb1978ca6a00fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+440f39403890d32683bc1a3a1e9ae617f617902b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoGerenciadorTarefasAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoGerenciadorTarefasAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
